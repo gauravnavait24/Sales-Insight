@@ -1,0 +1,48 @@
+## 📊 Sales Analysis – Data Storytelling
+
+This project analyzes sales performance across countries, deal sizes, product lines, and time to uncover key business insights and growth opportunities. The interactive dashboard enables stakeholders to quickly understand revenue drivers, trends, and seasonality.
+
+---
+
+### 🌍 Revenue by Country
+
+Sales are heavily concentrated in the **USA**, making it the top revenue-generating market. European countries such as **France and Spain** contribute a significant share, while other regions show steady but lower performance.
+**Insight:** Strong reliance on the US market highlights both market leadership and geographic concentration risk.
+
+---
+
+### 📦 Revenue by Deal Size
+
+The majority of revenue comes from **medium-sized deals (~61%)**, followed by **small deals (~26%)**. **Large deals (~13%)** contribute the least.
+**Insight:** Revenue stability is driven by deal volume rather than high-value contracts, presenting opportunities to expand enterprise-level sales.
+
+---
+
+### 🚗 Revenue by Product Line
+
+**Classic Cars** are the primary revenue driver, significantly outperforming all other product lines. **Vintage Cars** and **Motorcycles** form the next tier, while **Planes, Ships, and Trains** contribute smaller shares.
+**Insight:** The business is product-led, with Classic Cars acting as the core growth engine.
+
+---
+
+### 📈 Average Revenue Trend
+
+Average revenue shows a **consistent upward trend from 2003 to 2005**, indicating improved sales performance and deal quality over time.
+**Insight:** Sustained growth reflects strong market demand and effective pricing strategies.
+
+---
+
+### 📆 Monthly Sales Trends
+
+Monthly sales patterns reveal **seasonal spikes**, particularly toward the end of each year, across multiple countries.
+**Insight:** Clear seasonality suggests opportunities for optimized inventory planning, targeted promotions, and improved sales forecasting.
+
+---
+
+### 🎯 Key Takeaways
+
+* USA is the dominant revenue contributor.
+* Medium-sized deals form the backbone of revenue.
+* Classic Cars are the highest-performing product line.
+* Revenue growth is steady and positive year over year.
+* Seasonal trends play a critical role in sales performance.
